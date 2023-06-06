@@ -1,0 +1,9 @@
+{
+  "name": "convert-images",
+  "version": "0.1.0",
+  "private": true,
+
+  "devDependencies": {
+    "sharp": "^0.31.3"
+  }
+}
